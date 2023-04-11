@@ -1,0 +1,69 @@
+footer  {
+    color: #400101;
+    background: #400101;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+
+h2 {
+    font-family:'Courier New', Courier, monospace;
+    color:blue;
+    margin: 30px; 
+}
+
+body{
+    color: #D96E48;
+    background-color: rgb(215, 250, 227);
+}
+
+.header {
+   background-color: #D96E48;
+}
+
+
+
+.header_img {
+   width: 100%;
+   height: 80%;
+}
+
+.categorias{
+    margin: 30px;
+    font-size: 33px;
+    font-family: 'Source Serif Pro', serif;
+    font-family: 'Tinos', serif;
+    text-align: center;
+    background-color: bisque;
+}
+
+
+.titulo{
+   margin: 30px;
+   font-size: 33px;
+   font-family: 'Source Serif Pro', serif;
+   font-family: 'Tinos', serif;
+   text-align: center;
+}
+
+
+.tarjeta{
+    padding: 20px;
+    margin: 20px;
+    float: right;
+    
+} 
+
+.column {
+   float: left;
+   width: 25%;
+   padding: 0 10px;
+}
+
+.card {
+   padding: 40px;
+}
+   
+ 
+  
